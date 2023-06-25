@@ -1,0 +1,10 @@
+D:\Visual Studio Workspace\Download\Download\bin\Debug\Download.exe
+D:\Visual Studio Workspace\Download\Download\bin\Debug\Download.pdb
+D:\Visual Studio Workspace\Download\Download\obj\Debug\Download.csprojResolveAssemblyReference.cache
+D:\Visual Studio Workspace\Download\Download\obj\Debug\Download.Properties.Resources.resources
+D:\Visual Studio Workspace\Download\Download\obj\Debug\Download.csproj.GenerateResource.Cache
+D:\Visual Studio Workspace\Download\Download\obj\Debug\Download.exe
+D:\Visual Studio Workspace\Download\Download\obj\Debug\Download.pdb
+D:\Visual Studio Workspace\Download\Download\obj\Debug\Download.DownloadWin.resources
+D:\develop\vsworkspace\Download\Download\obj\Debug\Download.exe
+D:\develop\vsworkspace\Download\Download\obj\Debug\Download.pdb
